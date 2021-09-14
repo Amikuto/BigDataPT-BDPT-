@@ -3,8 +3,11 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Numpy/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/Pandas/lec/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/Pandas/.ipynb_checkpoints" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.9 (BigDataPT-BDPT-)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
