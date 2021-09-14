@@ -637,3 +637,8 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+!/.idea/deployment.xml
+!/.idea/BigDataPT (BDPT).iml
+/.idea/csv-plugin.xml
+!/.idea/misc.xml
+!/.idea/BigDataPT (BDPT).iml
