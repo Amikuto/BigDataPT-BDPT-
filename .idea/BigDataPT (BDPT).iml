@@ -7,7 +7,7 @@
       <excludeFolder url="file://$MODULE_DIR$/Pandas/lec/.ipynb_checkpoints" />
       <excludeFolder url="file://$MODULE_DIR$/Pandas/.ipynb_checkpoints" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.9 (BigDataPT (BDPT))" jdkType="Python SDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
