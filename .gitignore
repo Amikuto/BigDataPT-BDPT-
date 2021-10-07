@@ -434,3 +434,4 @@ fabric.properties
 .idea
 *.xml
 *.iml
+venv10
