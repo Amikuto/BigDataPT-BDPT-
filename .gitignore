@@ -435,3 +435,6 @@ fabric.properties
 *.xml
 *.iml
 venv10
+/Lesson5/AB.npz
+/Lesson5/test.h5
+/Lesson8/data/data/reviews_sample_b.csv
