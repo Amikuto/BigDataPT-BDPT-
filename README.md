@@ -11,3 +11,6 @@
 9) Семинар - 18.11.21 [(String2)](./Lesson9)
 10) Семинар - 25.11.21 [(Multiprocessing)](./Lesson10)
 11) Семинар - 02.12.21 [(Dask)](./Lesson11)
+12) Семинар - 09.12.21 [(Dask bag)](./Lesson12)
+13) Семинар - 16.12.21 [(Dask dataframe)](./Lesson13)
+14) Семинар - 23.12.21 [(Dask delayed)](./Lesson14)
